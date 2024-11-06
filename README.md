@@ -19,6 +19,6 @@ Please cite as
   title = "Revolution of Technology for Translation and Localisation in the AI Era",
   month = "November 7",
   year = "2024. [Online]",
-  url = "[https://github.com/siusaicheong/ai-and-financial-translation](https://github.com/siusaicheong/Revolution-of-Technology-for-Translation-and-Localisation-in-the-AI-Era)" 
+  url = "[https://github.com/siusaicheong/Revolution-of-Technology-for-Translation-and-Localisation-in-the-AI-Era](https://github.com/siusaicheong/Revolution-of-Technology-for-Translation-and-Localisation-in-the-AI-Era)" 
 }
 ```
